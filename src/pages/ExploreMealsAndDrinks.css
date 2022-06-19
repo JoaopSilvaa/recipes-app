@@ -1,0 +1,8 @@
+.section-buttons-explore {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 72vh;
+  justify-content: center;
+  width: 100%;
+}

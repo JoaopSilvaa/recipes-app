@@ -1,0 +1,54 @@
+/* stylelint-disable  */
+.cards-container {
+  column-gap: 2%;
+  display: grid;
+  grid-template-columns: auto;
+  justify-content: center;
+  margin-top: 25px;
+  margin-bottom: 50px;
+  width: 100%;
+}
+
+.img-foods {
+  border-radius: 2%;
+  margin-top: 30px;
+  width: 100%;
+}
+
+.card-food {
+  border-radius: 30px;
+  box-shadow: 15px 15px 30px #bebebe,
+              -15px -15px 30px #ffffff;
+  color: black;
+  margin-bottom: 40px;
+  text-align: center;
+  transition: 0.5s;
+  width: 350px;
+}
+
+.title-cards-food {
+  color: black;
+  font-size: 40px;
+  margin: 10px;
+}
+
+.link-food {
+  text-decoration: none;
+}
+
+
+@media only screen and (min-width: 780px) and (max-width: 1115px)  {
+  .cards-container {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-bottom: 50px;
+  }
+}
+
+@media only screen and (min-width: 1115px)  {
+  .cards-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+}
+

@@ -1,0 +1,26 @@
+/* stylelint-disable */
+.img-drinks {
+  border-radius: 2%;
+  margin-top: 30px;
+  width: 100%;
+}
+
+.card-drink {
+  border-radius: 30px;
+  box-shadow: 15px 15px 30px #bebebe,
+              -15px -15px 30px #ffffff;
+  color: black;
+  margin-bottom: 40px;
+  text-align: center;
+  transition: 0.5s;
+  width: 350px;
+}
+
+.title-cards-drink {
+  color: black;
+  font-size: 40px;
+}
+
+.link-drink {
+  text-decoration: none;
+}

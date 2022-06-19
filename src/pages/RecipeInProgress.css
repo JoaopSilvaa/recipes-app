@@ -1,0 +1,31 @@
+/* stylelint-disable */
+.ingredients-container {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.checked-recipes {
+  width: 50%;
+}
+
+.checkbox {
+  margin-right: 10px;
+}
+
+.risk {
+  text-decoration: line-through;
+}
+
+@media only screen and (min-width: 780px)  {
+  .main-recipe-in-progress {
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+}

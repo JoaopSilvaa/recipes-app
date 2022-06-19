@@ -1,0 +1,30 @@
+main {
+  background-color: whitesmoke;
+}
+
+.main-details {
+  margin-bottom: 70px;
+}
+
+.main-recipe-in-progress {
+  margin-bottom: 60px;
+}
+
+.categories-container {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: auto auto auto;
+  margin-top: 15px;
+  width: 100%;
+}
+
+.btn-category {
+  cursor: pointer;
+  font-size: 17px;
+  padding: 6px;
+}
+
+.btn-category:hover {
+  background-color: #29e097;
+}
+

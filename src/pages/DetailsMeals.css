@@ -1,0 +1,143 @@
+/* stylelint-disable */
+.img-details {
+  height: 50vh;
+  width: 100%;
+}
+
+.title-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-details {
+  background: transparent;
+  border: 0;
+  margin-right: 5px;
+}
+
+.title-recipe, .category-recipe {
+  margin-left: 10px;
+}
+
+.ingredients-section {
+  align-items: center;
+  background-color: #faa307ff;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  width: 100%;
+}
+
+.instructions-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.video-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.recommend-section {
+  margin-top: 20px;
+  text-align: center;
+  width: 100%;
+}
+
+.start-recipe {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn-start-recipe {
+  background-color: #23c483;
+  bottom: 0;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  margin-bottom: 20px;
+  position: fixed;
+}
+
+.continue-recipe {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn-continue-recipe {
+  background-color: #23c483;
+  bottom: 0;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  margin-bottom: 20px;
+  position: fixed;
+}
+
+.finish-recipe {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+.btn-finish-recipe {
+  background-color: #23c483;
+  bottom: 0;
+  box-shadow: 0px 15px 20px rgba(46, 229, 157, 0.4);
+  margin-bottom: 20px;
+  position: fixed;
+}
+
+@media only screen and (min-width: 780px)  {
+  .main-details {
+    margin-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+  .img-details {
+    height: 50vh;
+    width: 50%;
+    margin-top: 15px;
+    border: 1px solid black;
+    background-size: cover;
+  }
+
+  .title-section {
+    width: 50%;
+  }
+
+  .category-recipe {
+    display: flex;
+    width: 48%;
+  }
+
+  .recommend-section {
+    margin-top: 20px;
+    text-align: center;
+    width: 60%;
+  }
+
+  
+.video-section {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  width: 100%;
+  }
+
+  .start-recipe {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  
+}
