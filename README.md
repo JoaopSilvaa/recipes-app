@@ -25,6 +25,8 @@ npm install
   ```
 
 ## Gif de demonstração do projeto
-![imagem](apprecipes4.gif)
+<p align='center'>
+<img src='./apprecipes4.gif' alt='gif app de receitas' />
+</p>
 
 Este projeto foi desenvolvido por [João Antônio](https://www.linkedin.com/in/joaoantoniosilvaa/), [Danillo Gonçalves](https://github.com/danillogoncalves), [Lethicia Andrade](https://github.com/Lethiciahas), [Igor Leal](https://github.com/IgorHLeal) e [Ramond Falcão](https://github.com/ramondfalcao), durante o curso de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) 
