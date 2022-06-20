@@ -25,6 +25,6 @@ npm install
   ```
 
 ## Gif de demonstração do projeto
-[imagem]()
+[imagem](apprecipes4.gif)
 
 Este projeto foi desenvolvido por [João Antônio](https://www.linkedin.com/in/joaoantoniosilvaa/) durante o curso de Desenvolvimento de Software na [Trybe](https://www.betrybe.com/) 
